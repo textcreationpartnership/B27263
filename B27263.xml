@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New looking-glass for the Kingdom wherein those that admire the late governments, may have a true prospect of liberty and slavery, and take their choice.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27263</idno><idno type="EEBO-CITATION">12637388</idno>
+  <idno type="VID">200356</idno>
+  <idno type="EEBO-PROQUEST">2248558343</idno>
+  
+            <idno type="STC">Wing N660</idno>
+            <idno type="OCLC">12637388</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 966:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New looking-glass for the Kingdom wherein those that admire the late governments, may have a true prospect of liberty and slavery, and take their choice.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Comparative government --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:200356:1"/>
+            <head>A New Looking-Glass FOR THE KINGDOM. Wherein those that <hi>Admire the Late Governments,</hi> May have a True PROSPECT of LIBERTY and SLAVERY, And take their Choice.</head>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Twelfth Year of King <hi>Charles</hi> II. being the first <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Restauration, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re was granted to him a Subsidy <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nnage and Poundage, and other Sums of Money <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le upon Merchandize Imported and Exported, in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ration of the great Trust and Confidence which the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ment reposed in his Majesty, in and for the guarding <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inst all persons that should attempt the distur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of his Subjects in the Intercourse of Trade, or by <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on of the Kingdom.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e same Year came forth another Act, For the speedy <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sion of Money for Disbanding and paying off the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Kingdom by Land and Sea, by a Contribu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f all persons, according to their several Ranks and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e same Year likewise, by two Acts more, were given <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> King, By the one, Sevenscore Thousand Pounds, for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mplete Disbanding of the whole Army, and paying <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e part of the Navy, by a Two Months Assessment <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 l. a Month. By the other, Seventy Thousand <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, as a pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Supply to his Majesty.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r which follow'd the Act for settling certain Impo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon Beer, Ale, and other Liquors, for the En<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of his Majesties Revenue during his Life.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he same Year also the Post-Office was Erected by the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>liament, with a considerable Revenue accrewing to the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g. This Parliament, after these great Gifts, being Dis<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ved, the next Year, being the Thirteenth of the King's <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gn, sat a New Parliament, which in the first place <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s'd an Act for the <hi>Free and Voluntary Present;</hi> and then <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>'d an Act for Granting to the King Twelve Hundred <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Threescore Thousand Pounds to be Assess'd and Le<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by an Assessment of Threescore and Ten Thousand <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nds a Month, for Eighteen Months.</p>
+            <p>In the Fourteenth Year of the King, the Additional Re<g ref="char:EOLhyphen"/>venue of Hearth Money was setled upon his Majesty, his Heirs and Successors.</p>
+            <p>In the Fifteenth Year of the King, were Granted Four Entire Subsidies from the Temporalty, and Four from the Clergy.</p>
+            <p>In the Sixteenth Year of the King, a Royal Aid was granted by the same Parliament, of Twenty Four Thou<g ref="char:EOLhyphen"/>sand Four Hundred Threescore and Seventeen Thousand and Five Hundred Pounds, to be rais'd, levy'd and paid, in Three Years space, for the King's extraordinary Occasi<g ref="char:EOLhyphen"/>ons. As an Addition to which, in his Seventeenth Year, Twelve Hundred and 50 Thousand Pounds were Granted for his Majesties farther Supply, by the Parliament at <hi>Oxon.</hi>
+            </p>
+            <p>In the Eighteenth Year of the King, more Money was rais'd by a Poll-Bill, for the Prosecution of the <hi>Dutch</hi> War.</p>
+            <p>In his Nineteenth Year came forth another Act, for raising Three Hundred and Ten Thousand Pounds, by an Imposition on Wines, and other Liquors.</p>
+            <p>After which foll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w'd, in his Twenty Second Year, an Imposition upon all Wines and Vinegar for Eight Years; which was attended by the Imposition upon Brandy; toge<g ref="char:EOLhyphen"/>ther with another Act, for Advancing the Sale of Fee-Farm-Rents, and other Rents; both Valu'd at One Million Thirteen Hundred and Threescore Thousand Pounds.</p>
+            <p>In the Twenty Second and Twenty Third Year of the Reign of King <hi>Charles</hi> the Second, was Granted another Subsidy for Supply of his Occasions, Twelve Pence in the Pound upon all Lands, and Money at Interest, Fifteen Shillings in the Hundred for all Money owing to the Ban<g ref="char:EOLhyphen"/>kers, and Six Shillings in the Hundred upon Personal Estates.</p>
+            <pb n="2" facs="tcp:200356:2"/>
+            <p>After which there follow'd an Act for Additional Excise upon Beer, Ale, and other Liquors; to which succeeded the Law Bill. Which three being summed up together, were estimated at no less than two Millions and a half.</p>
+            <p>After this, at the Adjournment of the Parliament upon the 16th of <hi>April</hi> 1677. being the 20th of the King, past an Act, For Raising the Sum of Five Hundred Eighty Four Thousand Nine Hundred Seventy Eight Pounds Two Shil<g ref="char:EOLhyphen"/>lings and Two Pence Halfpenny, For the speedy Building Thirty Ships of War. Together with an Additional Ex<g ref="char:EOLhyphen"/>cise upon Beer, Ale, and other Liquors, for three Years.</p>
+            <p>Upon the 15th of <hi>July</hi> 1678, being the 30th of the King, past an Act, For granting a Supply to his Majesty of Six Hundred and Nineteen Thousand Three Hundred Eighty Eight Pounds Eleven Shillings and Nine Pence, for Dis<g ref="char:EOLhyphen"/>banding the Army, and other Uses therein mentioned.</p>
+            <p>With another Act, For granting an Additional Duty upon Wines for three Years.</p>
+            <p>To all which may be added (for it cannot be forgotten in haste) the shutting up of the Exchequer.</p>
+            <p>This, if it be not a perfect Arithmetical Accompt to some Thousands of Pounds perhaps, yet it comes pretty near the matter, to shew, as in a Mirror, the prodigious Sums it cost the Kingdom, in a few Years, to maintain the Vanity and Profuseness of the Court at that time, and to support a Design carry'd on all along to subvert the Reli<g ref="char:EOLhyphen"/>gion, Laws, Liberties and Properties of the whole Nation.</p>
+            <p>It is generally Imprinted in the minds of Men, that there is nothing so dear to them, as the preservation of their Religion, their Laws, their Liberties and Properties. Life is contemn'd, to preserve these four inestimable Comforts of human Being; which makes it a strange thing, to con<g ref="char:EOLhyphen"/>sider, that People who were so lavish to undo themselves, should so stingily grudge a necessary, tho' more than ordi<g ref="char:EOLhyphen"/>nary Expence, to be for ever quit of Future Danger.</p>
+            <p>They do not find their Money now profusely wasted up<g ref="char:EOLhyphen"/>on the Excesses of prodigal Luxury, nor upon Wars, to extirpate the Protestant Religion; Nor upon Designs, to enslave both their Souls and Bodies; but thriftily expended by a frugal and saving Prince, once their Generous and Fortunate Preserver, upon Men, Arms, and all manner of warlike Ammunition both by Sea and Land.</p>
+            <p>They find not now pretences of Wars to juggle them out of their Wealth, to be as deceitfully expended either upon Pleasure, or to support the Interest of the Common Foe: But a real War at the door, maintained by the Capi<g ref="char:EOLhyphen"/>tal Enemies of the Protestant Religion, and the General Peace of <hi>Europe:</hi> And withstood with as much Vigor, as prudent Council, and wary Conduct will permit, by a Prince no less Vigilant, no less Couragious and For<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> than his Adversaries are Potent and Malicious.</p>
+            <p>To repine at Expence at such a time as this, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> management of such Princely and Faithful Hands,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> like niggardly Misers, that love the Banquet, but g<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> at the Payment. The Choice is now, Whether to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for Ever, or Slaves for Ever? The Expence is Ne<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> therefore Just; and being Necessary and Just, n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Englishman</hi> will murmur at the purchase of his ow<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the preservation of his Posterity, tho' it cost ne<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> dear.</p>
+            <p>Is it possible there should be Men that should<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> forget the late Ravages of Tyranny and Popery,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their Religion and Laws? Is it possible for Father<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> get the Murders of their Sons, or for Sons to for<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Haling of their Parents to Execution? Is it possi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them to forget the Contrivances of Sham-Plots, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Subornation of Perjur'd Evidence, to take away th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Innocent? They that so fondly Kiss the late<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Picture, and are so Covetous of his Return, forg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Verses made upon the Cruelty of <hi>Tyberius,</hi> that giv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sufficient warning of a Prince returning from Ex<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Power again, by the Examples of <hi>Marius, Sylla<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Mark Anthony.</hi> There is nothing to be so much d<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as the Disposition of a Prince, <hi>Longo exilio efferati,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Wild with long Exilement, and <hi>Ignomia accensi,</hi> enr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Ign miny he has receiv'd. They forget how i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly the Abd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cated King must be beholding to his <hi>Fren<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>troon, the profess'd Enemy of the <hi>English</hi> Name and<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dom, if ever this Kingdom should be so unhappy a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> under his Clutches again. For farewell then that Liberty which has so long Blest this Fortunate Land,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therefore the Miseries of the <hi>French</hi> Government sho<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> enough to make these Unthinking <hi>Jacobites</hi> tremble<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> very sound of what they so extreamly Wish for, t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> turn of their Idol. The very Picture of <hi>France</hi> is e<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to Kill with the sight of it. Where the People l<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Cottages of Straw, in a Fat and Fertile Soil, red<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the utmost degree of Poverty; where the Miserab<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sant, after he has Till'd his Land, when he co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> reap the fruit of his Labour, has nothing to feed<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Rye and Barley, or a few Chesnuts; noth<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Drink but Water squeez'd through the Lees of the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Grape; the Collectors of the Taxes, the Impost-gath<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and other Ravenous Beasts of Prey, carry off the Co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Wine, his Oil, and other Choicer Conveniencies of<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> so innumerable are the Taxes, Imposts, Rights<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>trance, Peages, Aids, <hi>&amp;c.</hi> which if a Man should<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> up, he would seem to Talk the Language of a Cor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and all these so Tyrannically exacted by the num<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> swarms of Ruffians, Publicans, and Harpeys, as<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> one of the most delightful Countries in the World<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon Earth. Into this Condition was <hi>England</hi> tu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> till Redeemed by their Most Sacred Majesties King<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Queen <hi>Mary;</hi> and such would <hi>England</hi> be, if unreasonable <hi>Jacobites</hi> might have their will; which forbid.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. C.</hi> near <hi>Fleet-Bridge.</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
